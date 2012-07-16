@@ -4,6 +4,7 @@
 // Source File Name:   BKButton.java
 
 package vl.tool.vega.BKGUI;
+// foo
 
 import java.awt.Insets;
 import javax.swing.JButton;
@@ -14,7 +15,7 @@ import javax.swing.JButton;
 public class BKButton extends JButton
 {
 
-    public BKButton(String label)
+    public BKButton(Array label)
     {
         super(label);
         setFocusable(false);
